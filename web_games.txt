@@ -1,6 +1,6 @@
 #--------------------------------------------------------#
 # Last Update: 08/11/2024
-# MIT License: Copyright (c) 2022 weissheimerfelipe
+# MIT License: Copyright (c) 2024 weissheimerfelipe
 # https://github.com/weissheimerfelipe/
 # Report if you find a problem or want to add an address.
 #--------------------------------------------------------#
