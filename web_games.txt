@@ -6,7 +6,7 @@
 #--------------------------------------------------------#
 
 
-.zoxy.games
+zoxy.games
 1001games.com
 123bee.com
 123gamesforall.com
@@ -52,8 +52,8 @@ ballersunited.com
 battlenet.com
 bestarcadegames.com
 bestgames.com
-bet365.com/
-betfair.com/
+bet365.com
+betfair.com
 bethesda.net
 bgamesplay.com
 bgamesworld.com
@@ -73,7 +73,7 @@ boommazegames.com
 boomtownarcade.com
 bored.com
 box10.com
-brainpop.com/games
+brainpop.com
 breaktimegames.com
 browsergames.net
 bubbleblast.com
@@ -81,7 +81,7 @@ bubbletown.net
 bungieonline.com
 cafecafe.com
 cartoonarcade.com
-cartoonnetwork.com/games
+cartoonnetwork.com
 cartoonnetwork.de
 casualgameshub.com
 casualgamesnow.com
