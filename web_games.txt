@@ -4,8 +4,6 @@
 # github.com/weissheimerfelipe/
 # Report if you find a problem or want to add an address.
 #--------------------------------------------------------#
-crazygames.com
-myinstants.com
 zoxy.games
 1001games.com
 123bee.com
@@ -551,4 +549,21 @@ zynga.com
 clashdle.com
 minecraftdle.net
 gartic.com.br
-
+miniclip.com
+kongregate.com
+armorgames.com
+newgrounds.com
+playok.com
+iogames.space
+playretrogames.com
+girlsgogames.com
+aol.com/games
+cs-online.club
+worldofsolitaire.com
+pogo.com
+minecraft.com
+worldofwarcraft.blizzard.com
+roblux.com
+steampowered.com
+crazygames.com
+myinstants.com
